@@ -1,7 +1,5 @@
 # Bitcoin_Tracker
 
-Let me introduce you to
-
 Bitcoin Tracker
 Track current price of Bitcoin
 
